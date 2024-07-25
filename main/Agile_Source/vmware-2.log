@@ -1,0 +1,523 @@
+2024-05-26T10:01:05.108Z In(05) vmx Log for VMware Workstation pid=9276 version=17.5.0 build=build-22583795 option=Release
+2024-05-26T10:01:05.108Z In(05) vmx The host is x86_64.
+2024-05-26T10:01:05.108Z In(05) vmx Host codepage=windows-1252 encoding=windows-1252
+2024-05-26T10:01:05.108Z In(05) vmx Host is Windows 11 Home, 64-bit (Build 22631.3593)
+2024-05-26T10:01:05.108Z In(05) vmx Host offset from UTC is -07:00.
+2024-05-26T10:01:04.875Z In(05) vmx VTHREAD 20764 "vmx"
+2024-05-26T10:01:04.882Z In(05) vmx LOCALE windows-1252 -> NULL User=409 System=409
+2024-05-26T10:01:04.882Z In(05) vmx Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2024-05-26T10:01:04.922Z In(05) vmx DictionaryLoad: Cannot open file "C:\Users\NGOC THIEN\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2024-05-26T10:01:04.924Z In(05) vmx Msg_Reset:
+2024-05-26T10:01:04.925Z In(05) vmx [msg.dictionary.load.openFailed] Cannot open file "C:\Users\NGOC THIEN\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2024-05-26T10:01:04.925Z In(05) vmx ----------------------------------------
+2024-05-26T10:01:04.925Z In(05) vmx ConfigDB: Failed to load C:\Users\NGOC THIEN\AppData\Roaming\VMware\config.ini
+2024-05-26T10:01:04.928Z In(05) vmx Win32U_GetFileAttributes: GetFileAttributesExW("D:\BKAP-SRV-02.vmpl", ...) failed, error: 2
+2024-05-26T10:01:04.934Z In(05) vmx OBJLIB-LIB: Objlib initialized.
+2024-05-26T10:01:04.942Z In(05) vmx DictionaryLoad: Cannot open file "C:\Users\NGOC THIEN\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2024-05-26T10:01:04.942Z In(05) vmx [msg.dictionary.load.openFailed] Cannot open file "C:\Users\NGOC THIEN\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2024-05-26T10:01:04.942Z In(05) vmx PREF Optional preferences file not found at C:\Users\NGOC THIEN\AppData\Roaming\VMware\config.ini. Using default values.
+2024-05-26T10:01:05.017Z In(05) vmx SSL Error: error:80000002:system library::No such file or directory
+2024-05-26T10:01:05.017Z In(05) vmx SSL Error: error:10000080:BIO routines::no such file
+2024-05-26T10:01:05.017Z In(05) vmx SSL Error: error:07000072:configuration file routines::no such file
+2024-05-26T10:01:05.017Z Wa(03) vmx SSLConfigLoad: Failed to load OpenSSL config file.
+2024-05-26T10:01:05.071Z In(05) vmx lib/ssl: OpenSSL using default provider
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: Client usage
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: protocol list tls1.2
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: protocol min 0x303 max 0x303
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: protocol list tls1.2 (openssl flags 0x36000000)
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: cipher list ECDHE+AESGCM:RSA+AESGCM:ECDHE+AES:RSA+AES
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: cipher suites TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: curves list prime256v1:secp384r1:secp521r1
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: Server usage
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: protocol list tls1.2
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: protocol min 0x303 max 0x303
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: protocol list tls1.2 (openssl flags 0x36000000)
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: cipher list ECDHE+AESGCM:RSA+AESGCM:ECDHE+AES:RSA+AES
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: cipher suites TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384
+2024-05-26T10:01:05.090Z In(05) vmx lib/ssl: curves list prime256v1:secp384r1:secp521r1
+2024-05-26T10:01:05.119Z In(05) vmx Hostname=LAPTOP-FSPM5U29
+2024-05-26T10:01:05.179Z In(05) vmx IP=fe80::fc68:7ee7:cf5f:679%9
+2024-05-26T10:01:05.179Z In(05) vmx IP=2402:800:63aa:e0aa:b04b:5344:edff:a3a1
+2024-05-26T10:01:05.179Z In(05) vmx IP=2402:800:63aa:e0aa:14d6:33c6:25c1:abe7
+2024-05-26T10:01:05.179Z In(05) vmx IP=192.168.1.13
+2024-05-26T10:01:05.179Z In(05) vmx IP=fe80::dbf:b32c:6659:53e9%6
+2024-05-26T10:01:05.179Z In(05) vmx IP=fe80::d420:894:abf3:1768%19
+2024-05-26T10:01:05.179Z In(05) vmx IP=fe80::be90:33e6:355b:5bed%10
+2024-05-26T10:01:05.180Z In(05) vmx IP=192.168.56.1
+2024-05-26T10:01:05.180Z In(05) vmx IP=192.168.17.1
+2024-05-26T10:01:05.180Z In(05) vmx IP=192.168.184.1
+2024-05-26T10:01:05.211Z In(05) vmx System uptime 31965294274 us
+2024-05-26T10:01:05.211Z In(05) vmx Command line: "D:\VMware\x64\vmware-vmx.exe" "-T" "querytoken" "-s" "vmx.stdio.keep=TRUE" "-#" "product=1;name=VMware Workstation;version=17.5.0;buildnumber=22583795;licensename=VMware Workstation;licenseversion=17.0;" "-@" "pipe=\\.\pipe\vmxd70898238a4ccbc4;msgs=ui" "D:\BKAP-SRV-02.vmx"
+2024-05-26T10:01:05.211Z In(05) vmx Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2024-05-26T10:01:05.299Z In(05) vmx WQPoolAllocPoll : pollIx = 1, signalHandle = 764
+2024-05-26T10:01:05.300Z In(05) vmx WQPoolAllocPoll : pollIx = 2, signalHandle = 848
+2024-05-26T10:01:05.304Z In(05) vmx VigorTransport listening on fd 860
+2024-05-26T10:01:05.304Z In(05) vmx Vigor_Init 1
+2024-05-26T10:01:05.304Z In(05) vmx Connecting 'ui' to pipe '\\.\pipe\vmxd70898238a4ccbc4' with user '(null)'
+2024-05-26T10:01:05.305Z In(05) vmx VMXVmdb: Local connection timeout: 60000 ms.
+2024-05-26T10:01:05.368Z In(05) vmx VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1
+2024-05-26T10:01:05.370Z In(05) vmx Vix: [mainDispatch.c:488]: VMAutomation: Initializing VMAutomation.
+2024-05-26T10:01:05.371Z In(05) vmx Vix: [mainDispatch.c:740]: VMAutomationOpenListenerSocket() listening
+2024-05-26T10:01:05.377Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2024-05-26T10:01:05.378Z In(05) vmx Transitioned vmx/execState/val to poweredOff
+2024-05-26T10:01:05.379Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2024-05-26T10:01:05.379Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1877, success=1 additionalError=0
+2024-05-26T10:01:05.379Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=3, newAppState=1881, success=1 additionalError=0
+2024-05-26T10:01:05.379Z In(05) vmx IOPL_Init: Hyper-V detected by CPUID
+2024-05-26T10:01:05.405Z In(05) vmx IOCTL_VMX86_SET_MEMORY_PARAMS already set
+2024-05-26T10:01:05.416Z In(05) vmx FeatureCompat: No EVC masks.
+2024-05-26T10:01:05.980Z In(05) vmx hostCPUID vendor: GenuineIntel
+2024-05-26T10:01:05.980Z In(05) vmx hostCPUID family: 0x6 model: 0x8d stepping: 0x1
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID codename: Tiger Lake
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID name: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000000, 0: 0x0000001b 0x756e6547 0x6c65746e 0x49656e69
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000001, 0: 0x000806d1 0x00100800 0xfffaf38f 0xbfebfbff
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000002, 0: 0x00feff01 0x000000f0 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000004, 0: 0x1c004121 0x02c0003f 0x0000003f 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000004, 1: 0x1c004122 0x01c0003f 0x0000003f 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000004, 2: 0x1c004143 0x04c0003f 0x000003ff 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000004, 3: 0x1c03c163 0x01c0003f 0x00005fff 0x00000004
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000004, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000005, 0: 0x00000040 0x00000040 0x00000003 0x00021020
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000006, 0: 0x00178ff3 0x00000002 0x00000009 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000007, 0: 0x00000000 0xf3bfa7a9 0x18405fc6 0xbc100510
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000a, 0: 0x08300805 0x00000000 0x0000000f 0x00008604
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000b, 1: 0x00000004 0x0000000c 0x00000201 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 0: 0x000000e7 0x00000a80 0x00000a80 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 1: 0x0000000f 0x00000990 0x00001800 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 2: 0x00000100 0x00000240 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 3: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 5: 0x00000040 0x00000440 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 6: 0x00000200 0x00000480 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 7: 0x00000400 0x00000680 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 8: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, 9: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, a: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, b: 0x00000010 0x00000000 0x00000001 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000d, c: 0x00000018 0x00000000 0x00000001 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000e, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000f, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000000f, 1: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000010, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000010, 1: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000010, 2: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000010, 3: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000011, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000012, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000012, 1: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000012, 2: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000012, 3: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000013, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000014, 0: 0x00000001 0x0000004f 0x00000007 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000014, 1: 0x02490002 0x003f1fff 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000015, 0: 0x00000002 0x0000008c 0x0249f000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000016, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000017, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000018, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 00000019, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000001a, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 0000001b, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000000, 0: 0x4000000c 0x7263694d 0x666f736f 0x76482074
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000001, 0: 0x31237648 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000002, 0: 0x0000585d 0x000a0000 0x00000003 0x00000e09
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000003, 0: 0x0000bfff 0x002bb9ff 0x00000062 0x75fefbf6
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000004, 0: 0x00060e14 0x00000000 0x0000002e 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000005, 0: 0x00000400 0x00000400 0x000008d0 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000006, 0: 0x01f200af 0x00000027 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000007, 0: 0x80000007 0x0000000b 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 40000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 4000000a, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 4000000b, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 4000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000000, 0: 0x80000008 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000121 0x2c100800
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000002, 0: 0x68743131 0x6e654720 0x746e4920 0x52286c65
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000003, 0: 0x6f432029 0x54286572 0x6920294d 0x31312d35
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000004, 0: 0x48303034 0x32204020 0x4730372e 0x00007a48
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000006, 0: 0x00000000 0x00000000 0x01007040 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x00000100
+2024-05-26T10:01:05.981Z In(05) vmx hostCPUID level 80000008, 0: 0x00003027 0x00000000 0x00000000 0x00000000
+2024-05-26T10:01:05.981Z In(05) vmx CPUID differences from hostCPUID.
+2024-05-26T10:01:05.981Z In(05) vmx Physical APIC IDs: 0-11
+2024-05-26T10:01:05.981Z In(05) vmx Physical X2APIC IDs: 0-11
+2024-05-26T10:01:05.988Z In(05) vmx Common: MSR       0x3a =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x480 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x481 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x482 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x483 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x484 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x485 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x486 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x487 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x488 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x489 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x48a =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x48b =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x48c =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x48d =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x48e =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x48f =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x490 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x491 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x492 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR 0xc0010114 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR       0xce =         0x80000000
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x10a =               0x6f
+2024-05-26T10:01:05.989Z In(05) vmx Common: MSR      0x122 =                  0
+2024-05-26T10:01:05.989Z In(05) vmx TSC Hz estimates: vmmon 0, remembered 0, osReported 0. Using 2687999292 Hz.
+2024-05-26T10:01:05.989Z In(05) vmx PTSC: RefClockToPTSC 0 @ 10000000Hz -> 0 @ 2687999292Hz
+2024-05-26T10:01:05.989Z In(05) vmx PTSC: RefClockToPTSC ((x * 2254857236) >> 23) + -73775474323983
+2024-05-26T10:01:05.989Z In(05) vmx PTSC: tscOffset 0
+2024-05-26T10:01:05.989Z In(05) vmx PTSC: using user-level reference clock
+2024-05-26T10:01:05.989Z In(05) vmx PTSC: hardware TSCs are synchronized.
+2024-05-26T10:01:05.989Z In(05) vmx PTSC: hardware TSCs may have been adjusted by the host.
+2024-05-26T10:01:05.989Z In(05) vmx PTSC: current PTSC=89779
+2024-05-26T10:01:06.010Z In(05) vmx WQPoolAllocPoll : pollIx = 3, signalHandle = 956
+2024-05-26T10:01:07.076Z In(05) vmx ConfigCheck: No rules file found. Checks are disabled.
+2024-05-26T10:01:07.076Z In(05) vmx changing directory to D:\.
+2024-05-26T10:01:07.244Z In(05) vmx Config file: D:\BKAP-SRV-02.vmx
+2024-05-26T10:01:07.245Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2024-05-26T10:01:07.245Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1878, success=1 additionalError=0
+2024-05-26T10:01:07.246Z In(05) vmx LogRotation: Rotating to a new log file (keepOld 3) took 0.000186 seconds.
+2024-05-26T10:01:07.369Z No(00) vmx LogVMXReplace: Successful switching from temporary to permanent log file took 0.123976 seconds.
+2024-05-26T10:01:46.364Z Wa(03) vmx PowerOn
+2024-05-26T10:01:46.364Z In(05) vmx VMX_PowerOn: VMX build 22583795, UI build 22583795
+2024-05-26T10:01:46.375Z In(05) vmx HostWin32: WIN32 NUMA node 0, CPU mask 0x0000000000000fff
+2024-05-26T10:01:46.388Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1871, success=1 additionalError=0
+2024-05-26T10:01:46.509Z In(05) vmx VMXSTATS: Successfully created stats file 'DHCP.scoreboard'
+2024-05-26T10:01:46.509Z In(05) vmx VMXSTATS: Update Product Information: VMware Workstation	17.5.0	build-22583795	Release  TotalBlockSize: 56
+2024-05-26T10:01:46.515Z In(05) vmx HOST Windows version 10.0, build 22631, platform 2, ""
+2024-05-26T10:01:46.523Z In(05) vmx DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini
+2024-05-26T10:01:46.523Z In(05) vmx DICT          printers.enabled = "FALSE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT --- NON PERSISTENT (null)
+2024-05-26T10:01:46.523Z In(05) vmx DICT --- USER PREFERENCES C:\Users\NGOC THIEN\AppData\Roaming\VMware\preferences.ini
+2024-05-26T10:01:46.523Z In(05) vmx DICT   pref.lastUpdateCheckSec = "1716717589"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.keyboardAndMouse.vmHotKey.enabled = "FALSE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.keyboardAndMouse.vmHotKey.count = "0"
+2024-05-26T10:01:46.523Z In(05) vmx DICT         vmWizard.guestKey = "windows9srv-64"
+2024-05-26T10:01:46.523Z In(05) vmx DICT             vmWizard.mode = "custom"
+2024-05-26T10:01:46.523Z In(05) vmx DICT vmWizard.installMediaType = "later"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window.count = "1"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab.count = "6"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab0.cnxType = "vmdb"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.sidebar = "TRUE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.sidebar.width = "200"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.statusBar = "TRUE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tabs = "TRUE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.thumbnailBar = "FALSE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.thumbnailBar.size = "100"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.thumbnailBar.view = "opened-vms"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.placement.left = "64"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.placement.top = "64"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.placement.right = "1292"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.placement.bottom = "975"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.maximized = "TRUE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT vmWizard.isoLocationMRU.count = "2"
+2024-05-26T10:01:46.523Z In(05) vmx DICT vmWizard.isoLocationMRU0.location = "D:\Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO"
+2024-05-26T10:01:46.523Z In(05) vmx DICT vmWizard.isoLocationMRU1.location = "F:\Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab1.cnxType = "vmdb"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab2.cnxType = "vmdb"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab3.cnxType = "vmdb"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab0.dest = ""
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab0.file = ""
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab0.type = "home"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab0.focused = "FALSE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.vmplayer.firstRunDismissedVersion = "17.5.0"
+2024-05-26T10:01:46.523Z In(05) vmx DICT      pref.mruVM0.filename = "D:\MWS2016\Networking.vmx"
+2024-05-26T10:01:46.523Z In(05) vmx DICT   pref.mruVM0.displayName = "Networking"
+2024-05-26T10:01:46.523Z In(05) vmx DICT         pref.mruVM0.index = "0"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.vmplayer.deviceBarToplevel = "TRUE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT hint.loader.mitigations.wsAndFusion = "FALSE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT             hints.hideAll = "FALSE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab1.dest = ""
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab1.file = "folder:localhost"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab1.type = "folder"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab1.focused = "FALSE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.ws.session.window0.tab4.cnxType = "vmdb"
+2024-05-26T10:01:46.523Z In(05) vmx DICT       pref.usbDev.maxDevs = "1"
+2024-05-26T10:01:46.523Z In(05) vmx DICT     pref.usbDev0.deviceID = "1152921509743697964"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.usbDev0.showInStatusbar = "TRUE"
+2024-05-26T10:01:46.523Z In(05) vmx DICT       pref.usbDev0.iconID = "0"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.updatesVersionIgnore.numItems = "2"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.updatesVersionIgnore0.key = <not printed>
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.updatesVersionIgnore0.value = "424c449b-b863-4e9e-b232-c97afcd13923"
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.updatesVersionIgnore1.key = <not printed>
+2024-05-26T10:01:46.523Z In(05) vmx DICT pref.updatesVersionIgnore1.value = "e9e56989-87e8-402b-826d-124fec0c3671"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab2.dest = ""
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab2.file = "D:\DHCP\DHCP.vmx"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab2.type = "vm"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab2.focused = "FALSE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab3.dest = ""
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab3.file = "D:\Router\Router.vmx"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab3.type = "vm"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab3.focused = "FALSE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab4.dest = ""
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab4.file = "D:\BKAP-SRV-02.vmx"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab4.type = "vm"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab4.focused = "FALSE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab5.dest = ""
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab5.file = "D:\Client\Client.vmx"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab5.type = "vm"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab5.cnxType = "vmdb"
+2024-05-26T10:01:46.529Z In(05) vmx DICT pref.ws.session.window0.tab5.focused = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT --- USER DEFAULTS C:\Users\NGOC THIEN\AppData\Roaming\VMware\config.ini
+2024-05-26T10:01:46.529Z In(05) vmx DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.simplifiedUI = "no"
+2024-05-26T10:01:46.529Z In(05) vmx DICT         authd.client.port = "902"
+2024-05-26T10:01:46.529Z In(05) vmx DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "21063"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.componentDownloadEnabled = "yes"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.dataCollectionEnabled = "yes"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.dataCollectionEnabled.epoch = "21063"
+2024-05-26T10:01:46.529Z In(05) vmx DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.simplifiedUI = "no"
+2024-05-26T10:01:46.529Z In(05) vmx DICT         authd.client.port = "902"
+2024-05-26T10:01:46.529Z In(05) vmx DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "21063"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.componentDownloadEnabled = "yes"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.dataCollectionEnabled = "yes"
+2024-05-26T10:01:46.529Z In(05) vmx DICT installerDefaults.dataCollectionEnabled.epoch = "21063"
+2024-05-26T10:01:46.529Z In(05) vmx DICT --- NONPERSISTENT
+2024-05-26T10:01:46.529Z In(05) vmx DICT            vmx.stdio.keep = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             gui.available = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT --- COMMAND LINE
+2024-05-26T10:01:46.529Z In(05) vmx DICT            vmx.stdio.keep = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             gui.available = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT --- RECORDING
+2024-05-26T10:01:46.529Z In(05) vmx DICT            vmx.stdio.keep = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             gui.available = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT --- CONFIGURATION D:\BKAP-SRV-02.vmx 
+2024-05-26T10:01:46.529Z In(05) vmx DICT            config.version = "8"
+2024-05-26T10:01:46.529Z In(05) vmx DICT         virtualHW.version = "21"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        pciBridge0.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        pciBridge4.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT     pciBridge4.virtualDev = "pcieRootPort"
+2024-05-26T10:01:46.529Z In(05) vmx DICT      pciBridge4.functions = "8"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        pciBridge5.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT     pciBridge5.virtualDev = "pcieRootPort"
+2024-05-26T10:01:46.529Z In(05) vmx DICT      pciBridge5.functions = "8"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        pciBridge6.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT     pciBridge6.virtualDev = "pcieRootPort"
+2024-05-26T10:01:46.529Z In(05) vmx DICT      pciBridge6.functions = "8"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        pciBridge7.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT     pciBridge7.virtualDev = "pcieRootPort"
+2024-05-26T10:01:46.529Z In(05) vmx DICT      pciBridge7.functions = "8"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             vmci0.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             hpet0.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT                     nvram = "BKAP-SRV-02.nvram"
+2024-05-26T10:01:46.529Z In(05) vmx DICT virtualHW.productCompatibility = "hosted"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        powerType.powerOff = "soft"
+2024-05-26T10:01:46.529Z In(05) vmx DICT         powerType.powerOn = "soft"
+2024-05-26T10:01:46.529Z In(05) vmx DICT         powerType.suspend = "soft"
+2024-05-26T10:01:46.529Z In(05) vmx DICT           powerType.reset = "soft"
+2024-05-26T10:01:46.529Z In(05) vmx DICT               displayName = "BKAP-SRV-02"
+2024-05-26T10:01:46.529Z In(05) vmx DICT                   guestOS = "windows9srv-64"
+2024-05-26T10:01:46.529Z In(05) vmx DICT            tools.syncTime = "FALSE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT          sound.autoDetect = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT          sound.virtualDev = "hdaudio"
+2024-05-26T10:01:46.529Z In(05) vmx DICT            sound.fileName = "-1"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             sound.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT                  numvcpus = "2"
+2024-05-26T10:01:46.529Z In(05) vmx DICT      cpuid.coresPerSocket = "1"
+2024-05-26T10:01:46.529Z In(05) vmx DICT               vcpu.hotadd = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT                   memsize = "2048"
+2024-05-26T10:01:46.529Z In(05) vmx DICT                mem.hotadd = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             sata0.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             nvme0.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT          nvme0:0.fileName = "DHCP-cl1.vmdk"
+2024-05-26T10:01:46.529Z In(05) vmx DICT           nvme0:0.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        sata0:1.deviceType = "cdrom-image"
+2024-05-26T10:01:46.529Z In(05) vmx DICT          sata0:1.fileName = "D:\Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO"
+2024-05-26T10:01:46.529Z In(05) vmx DICT           sata0:1.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT               usb.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT              ehci.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT          usb_xhci.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT  ethernet0.connectionType = "custom"
+2024-05-26T10:01:46.529Z In(05) vmx DICT     ethernet0.addressType = "generated"
+2024-05-26T10:01:46.529Z In(05) vmx DICT      ethernet0.virtualDev = "e1000e"
+2024-05-26T10:01:46.529Z In(05) vmx DICT         ethernet0.present = "TRUE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        extendedConfigFile = "BKAP-SRV-02.vmxf"
+2024-05-26T10:01:46.529Z In(05) vmx DICT           floppy0.present = "FALSE"
+2024-05-26T10:01:46.529Z In(05) vmx DICT            ethernet0.vnet = "VMnet3"
+2024-05-26T10:01:46.529Z In(05) vmx DICT     ethernet0.displayName = "VMnet3"
+2024-05-26T10:01:46.529Z In(05) vmx DICT         vmxstats.filename = "DHCP.scoreboard"
+2024-05-26T10:01:46.529Z In(05) vmx DICT                 uuid.bios = "56 4d 23 a3 4c f8 a2 65-79 b6 0d 9c 2f 1a fa 29"
+2024-05-26T10:01:46.529Z In(05) vmx DICT             uuid.location = "56 4d 23 a3 4c f8 a2 65-79 b6 0d 9c 2f 1a fa 29"
+2024-05-26T10:01:46.529Z In(05) vmx DICT  pciBridge0.pciSlotNumber = "17"
+2024-05-26T10:01:46.529Z In(05) vmx DICT  pciBridge4.pciSlotNumber = "21"
+2024-05-26T10:01:46.529Z In(05) vmx DICT  pciBridge5.pciSlotNumber = "22"
+2024-05-26T10:01:46.529Z In(05) vmx DICT  pciBridge6.pciSlotNumber = "23"
+2024-05-26T10:01:46.529Z In(05) vmx DICT  pciBridge7.pciSlotNumber = "24"
+2024-05-26T10:01:46.529Z In(05) vmx DICT         usb.pciSlotNumber = "32"
+2024-05-26T10:01:46.529Z In(05) vmx DICT   ethernet0.pciSlotNumber = "160"
+2024-05-26T10:01:46.529Z In(05) vmx DICT       sound.pciSlotNumber = "33"
+2024-05-26T10:01:46.529Z In(05) vmx DICT        ehci.pciSlotNumber = "34"
+2024-05-26T10:01:46.529Z In(05) vmx DICT    usb_xhci.pciSlotNumber = "192"
+2024-05-26T10:01:46.529Z In(05) vmx DICT       sata0.pciSlotNumber = "35"
+2024-05-26T10:01:46.529Z In(05) vmx DICT       nvme0.pciSlotNumber = "224"
+2024-05-26T10:01:46.529Z In(05) vmx DICT              nvme0:0.redo = ""
+2024-05-26T10:01:46.529Z In(05) vmx DICT             svga.vramSize = "268435456"
+2024-05-26T10:01:46.529Z In(05) vmx DICT  vmotion.checkpointFBSize = "4194304"
+2024-05-26T10:01:46.529Z In(05) vmx DICT vmotion.checkpointSVGAPrimarySize = "268435456"
+2024-05-26T10:01:46.529Z In(05) vmx DICT   vmotion.svga.mobMaxSize = "268435456"
+2024-05-26T10:01:46.529Z In(05) vmx DICT vmotion.svga.graphicsMemoryKB = "262144"
+2024-05-26T10:01:46.529Z In(05) vmx DICT ethernet0.generatedAddress = "00:0c:29:1a:fa:29"
+2024-05-26T10:01:46.529Z In(05) vmx DICT ethernet0.generatedAddressOffset = "0"
+2024-05-26T10:01:46.529Z In(05) vmx DICT                  vmci0.id = "910995096"
+2024-05-26T10:01:46.530Z In(05) vmx DICT    monitor.phys_bits_used = "45"
+2024-05-26T10:01:46.530Z In(05) vmx DICT             cleanShutdown = "TRUE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT              softPowerOff = "FALSE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT    sata0:1.startConnected = "TRUE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT toolsInstallManager.lastInstallError = "0"
+2024-05-26T10:01:46.530Z In(05) vmx DICT svga.guestBackedPrimaryAware = "TRUE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT tools.capability.verifiedSamlToken = "TRUE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT       tools.remindInstall = "FALSE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT toolsInstallManager.updateCounter = "1"
+2024-05-26T10:01:46.530Z In(05) vmx DICT   guestInfo.detailed.data = <not printed>
+2024-05-26T10:01:46.530Z In(05) vmx DICT        checkpoint.vmState = ""
+2024-05-26T10:01:46.530Z In(05) vmx DICT                   vc.uuid = ""
+2024-05-26T10:01:46.530Z In(05) vmx DICT          policy.vm.mvmtid = ""
+2024-05-26T10:01:46.530Z In(05) vmx DICT  ethernet1.connectionType = "custom"
+2024-05-26T10:01:46.530Z In(05) vmx DICT     ethernet1.addressType = "generated"
+2024-05-26T10:01:46.530Z In(05) vmx DICT            ethernet1.vnet = "VMnet4"
+2024-05-26T10:01:46.530Z In(05) vmx DICT     ethernet1.displayName = "VMnet4"
+2024-05-26T10:01:46.530Z In(05) vmx DICT      ethernet1.virtualDev = "e1000e"
+2024-05-26T10:01:46.530Z In(05) vmx DICT         ethernet1.present = "TRUE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT                  vm.genid = "2544214721234879295"
+2024-05-26T10:01:46.530Z In(05) vmx DICT                 vm.genidX = "6959482773208339811"
+2024-05-26T10:01:46.530Z In(05) vmx DICT   ethernet1.pciSlotNumber = "256"
+2024-05-26T10:01:46.530Z In(05) vmx DICT ethernet1.generatedAddress = "00:0c:29:1a:fa:33"
+2024-05-26T10:01:46.530Z In(05) vmx DICT ethernet1.generatedAddressOffset = "10"
+2024-05-26T10:01:46.530Z In(05) vmx DICT        usb_xhci:4.present = "TRUE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT     usb_xhci:4.deviceType = "hid"
+2024-05-26T10:01:46.530Z In(05) vmx DICT           usb_xhci:4.port = "4"
+2024-05-26T10:01:46.530Z In(05) vmx DICT         usb_xhci:4.parent = "-1"
+2024-05-26T10:01:46.530Z In(05) vmx DICT          unity.wasCapable = "TRUE"
+2024-05-26T10:01:46.530Z In(05) vmx DICT --- USER DEFAULTS C:\Users\NGOC THIEN\AppData\Roaming\VMware\config.ini 
+2024-05-26T10:01:46.530Z In(05) vmx DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.simplifiedUI = "no"
+2024-05-26T10:01:46.530Z In(05) vmx DICT         authd.client.port = "902"
+2024-05-26T10:01:46.530Z In(05) vmx DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "21063"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.componentDownloadEnabled = "yes"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.dataCollectionEnabled = "yes"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.dataCollectionEnabled.epoch = "21063"
+2024-05-26T10:01:46.530Z In(05) vmx DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.simplifiedUI = "no"
+2024-05-26T10:01:46.530Z In(05) vmx DICT         authd.client.port = "902"
+2024-05-26T10:01:46.530Z In(05) vmx DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "21063"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.componentDownloadEnabled = "yes"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.dataCollectionEnabled = "yes"
+2024-05-26T10:01:46.530Z In(05) vmx DICT installerDefaults.dataCollectionEnabled.epoch = "21063"
+2024-05-26T10:01:46.530Z In(05) vmx DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini 
+2024-05-26T10:01:46.530Z In(05) vmx DICT          printers.enabled = "FALSE"
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 1 stats: vmx.diskLibDataVmdkOpenTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 2 stats: vmx.diskLibDataVmdkOpenTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 3 stats: vmx.diskLibDataVmdkGrowTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 4 stats: vmx.diskLibDataVmdkGrowTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 5 stats: vmx.diskLibDigestVmdkOpenTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 6 stats: vmx.diskLibDigestVmdkOpenTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 7 stats: vmx.diskLibDigestVmdkGrowTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 8 stats: vmx.diskLibDigestVmdkGrowTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 9 stats: vmx.diskLibDigestFileDataGrowTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 10 stats: vmx.diskLibDigestFileDataGrowTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 11 stats: vmx.digestLibOpenIntTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 12 stats: vmx.digestLibOpenIntTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 13 stats: vmx.diskLibDataVmdkCloseTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 14 stats: vmx.diskLibDataVmdkCloseTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 15 stats: vmx.diskLibDigestVmdkCloseTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 16 stats: vmx.diskLibDigestVmdkCloseTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 17 stats: vmx.diskLibVmdkCreateTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 18 stats: vmx.diskLibVmdkCreateTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 19 stats: vmx.diskLibChildVmdkCreateTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 20 stats: vmx.diskLibChildVmdkCreateTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 21 stats: vmx.snapshotCreateTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 22 stats: vmx.snapshotCreateTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 23 stats: vmx.snapshotCreateQuiescedTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 24 stats: vmx.snapshotCreateQuiescedTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 25 stats: vmx.snapshotCreateMemoryTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 26 stats: vmx.snapshotCreateMemoryTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 27 stats: vmx.snapshotDeleteTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 28 stats: vmx.snapshotDeleteTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 29 stats: vmx.snapshotConsolidateTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 30 stats: vmx.snapshotConsolidateTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 31 stats: vmx.checkpointStunTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 32 stats: vmx.checkpointStunTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 33 stats: vmx.setPolicyTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 34 stats: vmx.setPolicyTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 35 stats: vmx.filtlibApplyDiskConfigTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 36 stats: vmx.filtlibApplyDiskConfigTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 37 stats: vmx.diskLibGetInfoTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 38 stats: vmx.diskLibGetInfoTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 39 stats: vmx.diskLibDigestGetInfoTime
+2024-05-26T10:01:46.596Z In(05) vmx VMXSTATS: Registering 40 stats: vmx.diskLibDigestGetInfoTime
+2024-05-26T10:01:46.702Z In(05) vmx Powering on guestOS 'windows9srv-64' using the configuration for 'windows9srv-64'.
+2024-05-26T10:01:46.734Z In(05) vmx ToolsISO: open of D:\VMware\isoimages_manifest.txt.sig failed: Could not find the file
+2024-05-26T10:01:46.734Z In(05) vmx ToolsISO: Unable to read signature file 'D:\VMware\isoimages_manifest.txt.sig', ignoring.
+2024-05-26T10:01:46.771Z In(05) vmx ToolsISO: Updated cached value for imageName to 'windows.iso'.
+2024-05-26T10:01:46.771Z In(05) vmx ToolsISO: Selected Tools ISO 'windows.iso' for 'windows9srv-64' guest.
+2024-05-26T10:01:46.791Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2024-05-26T10:01:46.858Z In(05) vmx Monitor Mode: ULM
+2024-05-26T10:01:46.860Z In(05) vmx MsgHint: msg.loader.mitigations.wsAndFusion
+2024-05-26T10:01:46.860Z In(05)+ vmx You are running this virtual machine with side channel mitigations enabled. Side channel mitigations provide enhanced security but also lower performance.
+2024-05-26T10:01:46.860Z In(05)+ vmx 
+2024-05-26T10:01:46.860Z In(05)+ vmx To disable mitigations, change the side channel mitigations setting in the advanced panel of the virtual machine settings. Refer to VMware KB article 79832 at https://kb.vmware.com/s/article/79832 for more details.
+2024-05-26T10:01:46.860Z In(05)+ vmx ---------------------------------------
+2024-05-26T10:01:46.998Z In(05) vmx nvmeShared size: 3752, numAdapters: 1
+2024-05-26T10:01:47.005Z In(05) vmx OvhdMem_PowerOn: initial admission: paged   674445 nonpaged     6007 anonymous     6306
+2024-05-26T10:01:47.005Z In(05) vmx VMMEM: Initial Reservation: 2682MB (MainMem=2048MB)
+2024-05-26T10:01:47.010Z In(05) vmx numa: Hot-add is enabled and vNUMA hot-add is disabled, forcing UMA.
+2024-05-26T10:01:47.010Z In(05) vmx llc: maximum vcpus per LLC: 1
+2024-05-26T10:01:47.010Z In(05) vmx llc: vLLC size: 1
+2024-05-26T10:01:47.035Z In(05) vmx MemSched_PowerOn: balloon minGuestSize 209715 (80% of min required size 262144)
+2024-05-26T10:01:47.041Z In(05) vmx MemSched: reserved mem (in MB) min 128 max 6196 recommended 6196
+2024-05-26T10:01:47.041Z In(05) vmx MemSched: pg 674445 np 6007 anon 6306 mem 524288
+2024-05-26T10:01:47.041Z In(05) vmx MemSched: numvm 3 locked pages: num 0 max 750442
+2024-05-26T10:01:47.041Z In(05) vmx MemSched: locked Page Limit: host 775018 config 1586176
+2024-05-26T10:01:47.041Z In(05) vmx MemSched: minmempct 50 minalloc 541237 admitted 0
+2024-05-26T10:01:47.055Z In(05) vmx Msg_Post: Error
+2024-05-26T10:01:47.055Z In(05) vmx [msg.memsched.preNotEnoughMem] Not enough physical memory is available to power on this virtual machine with its configured settings.
+2024-05-26T10:01:47.055Z In(05) vmx [msg.memsched.notEnoughMem2] To fix this problem, power off other virtual machines, decrease the memory size of this virtual machine to 1532 MB, increase the amount of physical memory for all virtual machines to 3283 MB, or adjust the additional memory settings to allow more virtual machine memory to be swapped.
+2024-05-26T10:01:47.055Z In(05) vmx [msg.memsched.postNotEnoughMem] If you were able to power on this virtual machine on this host computer in the past, try rebooting the host computer. Rebooting may allow you to use slightly more host memory to run virtual machines.
+2024-05-26T10:01:47.055Z In(05) vmx ----------------------------------------
+2024-05-26T10:02:17.265Z In(05) vmx Module 'MemSched' power on failed.
+2024-05-26T10:02:17.265Z In(05) vmx VMX_PowerOn: ModuleTable_PowerOn = 0
+2024-05-26T10:02:17.267Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2024-05-26T10:02:17.267Z In(05) vmx VMXSTATS: Ready to cleanup and munmap 15472BF0000.
+2024-05-26T10:02:17.267Z In(05) vmx 
+2024-05-26T10:02:17.267Z In(05)+ vmx Power on failure messages: Not enough physical memory is available to power on this virtual machine with its configured settings.
+2024-05-26T10:02:17.267Z In(05)+ vmx To fix this problem, power off other virtual machines, decrease the memory size of this virtual machine to 1532 MB, increase the amount of physical memory for all virtual machines to 3283 MB, or adjust the additional memory settings to allow more virtual machine memory to be swapped.
+2024-05-26T10:02:17.267Z In(05)+ vmx If you were able to power on this virtual machine on this host computer in the past, try rebooting the host computer. Rebooting may allow you to use slightly more host memory to run virtual machines.
+2024-05-26T10:02:17.267Z In(05)+ vmx Failed to start the virtual machine.
+2024-05-26T10:02:17.267Z In(05)+ vmx 
+2024-05-26T10:02:17.267Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2024-05-26T10:02:17.269Z In(05) vmx Transitioned vmx/execState/val to poweredOff
+2024-05-26T10:02:17.269Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=0 additionalError=0
+2024-05-26T10:02:17.269Z In(05) vmx Vix: [mainDispatch.c:4250]: Error VIX_E_FAIL in VMAutomation_ReportPowerOpFinished(): Unknown error
+2024-05-26T10:02:17.270Z In(05) vmx Vix: [mainDispatch.c:4212]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2024-05-26T10:02:17.270Z In(05) vmx Transitioned vmx/execState/val to poweredOff
+2024-05-26T10:02:17.272Z In(05) vmx WQPoolFreePoll : pollIx = 3, signalHandle = 956
+2024-05-26T10:02:17.275Z In(05) vmx Vix: [mainDispatch.c:817]: VMAutomation_LateShutdown()
+2024-05-26T10:02:17.275Z In(05) vmx Vix: [mainDispatch.c:772]: VMAutomationCloseListenerSocket. Closing listener socket.
+2024-05-26T10:02:17.276Z In(05) vmx Flushing VMX VMDB connections
+2024-05-26T10:02:17.277Z In(05) vmx VmdbDbRemoveCnx: Removing Cnx from Db for '/db/connection/#1/'
+2024-05-26T10:02:17.277Z In(05) vmx VmdbCnxDisconnect: Disconnect: closed pipe for pub cnx '/db/connection/#1/' (0)
+2024-05-26T10:02:17.277Z In(05) vmx VigorTransport_ServerDestroy: server destroyed.
+2024-05-26T10:02:17.277Z In(05) vmx WQPoolFreePoll : pollIx = 2, signalHandle = 848
+2024-05-26T10:02:17.277Z In(05) vmx WQPoolFreePoll : pollIx = 1, signalHandle = 764
+2024-05-26T10:02:17.288Z In(05) vmx VMX exit (0).
+2024-05-26T10:02:17.288Z In(05) vmx OBJLIB-LIB: ObjLib cleanup done.
